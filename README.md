@@ -4,7 +4,7 @@
 
 I'm an **Electronics & Communication Engineering (ECE)** student who enjoys building things at the intersection of **hardware, software, data, and AI**.
 
-I'm currently developing my skills in **Python, Machine Learning, Data Analysis, Embedded Systems, and Firmware Development**.
+I'm currently developing my skills in **Python, Machine Learning, Data Analysis, Embedded Systems**.
 
 ---
 
@@ -59,7 +59,7 @@ Exploring projects that combine machine learning with embedded systems and IoT.
 
 > **Build intelligent systems that connect software, AI, and real-world electronics.**
 
-I'm working toward becoming a **strong Embedded Software / Firmware Engineer** while developing practical expertise in **AI and Machine Learning**.
+I'm working toward becoming a **strong Embedded Software** while developing practical expertise in **AI and Machine Learning**.
 
 ---
 
@@ -70,7 +70,7 @@ Python
   └── Data Analysis
        └── Machine Learning
             └── Deep Learning
-                 └── AI + Embedded Systems
+                 └── AI 
 ```
 
 ---
